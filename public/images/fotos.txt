@@ -1,0 +1,10 @@
+public/images/
+├── beatriz-hero.jpg      # Foto principal do hero (1200x800)
+├── beatriz-bio.jpg       # Foto da biografia (800x1000)
+├── post1.jpg             # Post feed 1 (600x400)
+├── post2.jpg             # Post feed 2 (600x400)
+├── post3.jpg             # Post feed 3 (600x400)
+├── testimonial1.jpg      # Depoimento 1 (200x200)
+├── testimonial2.jpg      # Depoimento 2 (200x200)
+├── testimonial3.jpg      # Depoimento 3 (200x200)
+└── og-image.jpg          # Imagem para compartilhamento (1200x630)
