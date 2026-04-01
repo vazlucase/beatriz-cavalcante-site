@@ -91,7 +91,8 @@ Executando com Docker
 docker-compose up
 ```
 
-📁 Estrutura de Pastas
+## 📁 Estrutura de Pastas
+```bash
 beatriz-cavalcante-site/
 ├── public/
 │   └── images/          # Imagens estáticas
@@ -106,8 +107,9 @@ beatriz-cavalcante-site/
 ├── package.json         # Dependências e scripts
 ├── tailwind.config.js   # Configuração do Tailwind
 └── tsconfig.json        # Configuração do TypeScript
+```
 
-🤝 Como Contribuir
+## 🤝 Como Contribuir
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
     Faça um fork do projeto
     Crie uma branch para sua feature (git checkout -b feature/nova-feature)
@@ -115,12 +117,13 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
     Push para a branch (git push origin feature/nova-feature)
     Abra um Pull Request
 
-📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-📬 Contato
+## 📬 Contato
     Desenvolvedor: Lucas Vaz
     GitHub: vazlucase
     LinkedIn: lucasskth
     Projeto: beatriz-cavalcante-site
-Desenvolvido com ❤️ por Lucas Vaz
+    
+#### Desenvolvido com ❤️ por Lucas Vaz
